@@ -25,8 +25,9 @@
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wallens11&theme=github_dark)](https://github.com/Wallens11) 
 
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wallens11&theme=dark)](https://wakatime.com/@Wallens11)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wallens11&theme=dark)
+
 
 
 
