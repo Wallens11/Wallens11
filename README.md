@@ -9,6 +9,11 @@
 
 ![git](https://github.com/user-attachments/assets/0bbe1d88-a83c-4ad2-8a7f-3066c862067a)
 
+<p align="center">
+  <img src="https://github.com/Wallens11/Wallens11/blob/output/snake.svg" alt="GitHub Contribution Snake Animation"/>
+</p>
+
+
 ![](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
