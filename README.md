@@ -21,8 +21,6 @@
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)</b>
 [![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-yellow)](https://www.buymeacoffee.com/Wallens11)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wallens11&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallens11&layout=compact&theme=dark)
-
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wallens11&theme=github_dark)](https://github.com/Wallens11) 
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wallens11&theme=dark)](https://wakatime.com/@Wallens11)
