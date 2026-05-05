@@ -4,6 +4,8 @@ Product-minded software engineer based in Osaka / Remote.
 
 I build **internal tools, operator interfaces, and AI-assisted workflows** — the kind of software that has to stay calm and trustworthy when the work gets messy.
 
+**→ [portfolio-nu-seven-1xyfqw3iwx.vercel.app](https://portfolio-nu-seven-1xyfqw3iwx.vercel.app)**
+
 ---
 
 ## What I focus on
@@ -33,5 +35,6 @@ TypeScript · Next.js · Node.js · Supabase · Google Cloud · Kintone
 
 ## Links
 
+- **Portfolio** → [portfolio-nu-seven-1xyfqw3iwx.vercel.app](https://portfolio-nu-seven-1xyfqw3iwx.vercel.app)
 - **LinkedIn** → [muhammadraffiwindarto](https://linkedin.com/in/muhammadraffiwindarto)
 - **Email** → raffi@funtoco.jp
