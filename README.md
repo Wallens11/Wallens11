@@ -1,32 +1,37 @@
-<div align="center">
-  
-# Hi, I'm Raffi Windarto
+# Raffi Windarto
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFFFFF&lines=We+code,+we+connect,+we+conquer🛡️" />
-</p>
+Product-minded software engineer based in Osaka / Remote.
 
+I build **internal tools, operator interfaces, and AI-assisted workflows** — the kind of software that has to stay calm and trustworthy when the work gets messy.
 
-![git](https://github.com/user-attachments/assets/0bbe1d88-a83c-4ad2-8a7f-3066c862067a)
+---
 
-<p align="center">
-  <img src="https://github.com/Wallens11/Wallens11/blob/output/snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
+## What I focus on
 
+- **Internal tools & ops software** — admin surfaces, operator flows, back-office systems
+- **System integrations** — webhook-driven sync, record resolution, diagnostic endpoints  
+- **AI-assisted workflows** — interfaces where automation is explainable and operators stay in control
 
-![](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)</b>
-[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-yellow)](https://www.buymeacoffee.com/Wallens11)
+---
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wallens11&theme=github_dark)](https://github.com/Wallens11) 
+## Open source
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wallens11&theme=dark)](https://wakatime.com/@Wallens11)
+| Repo | What it does |
+|------|-------------|
+| [kintone-sync-engine](https://github.com/Wallens11/kintone-sync-engine) | Rule-driven webhook sync engine: Kintone → Zendesk, HubSpot, Slack. Config-file routing, write-back, diagnostics endpoint |
+| [viewkin](https://github.com/Wallens11/viewkin) | Token-gated Kintone viewer for non-admin users. Next.js + Supabase, credentials stay server-side |
+| [supabase-multi-tenant-starter](https://github.com/Wallens11/supabase-multi-tenant-starter) | Next.js + Supabase starter with multi-tenant RLS, role-based access, and auth middleware |
+| [kintone-line-starter](https://github.com/Wallens11/kintone-line-starter) | Starter template: LINE Messaging API + Kintone customize + GCP Cloud Functions |
 
+---
 
+## Stack
 
+TypeScript · Next.js · Node.js · Supabase · Google Cloud · Kintone
 
+---
 
-</div>
+## Links
+
+- **LinkedIn** → [muhammadraffiwindarto](https://linkedin.com/in/muhammadraffiwindarto)
+- **Email** → raffi@funtoco.jp
