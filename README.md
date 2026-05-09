@@ -35,6 +35,5 @@ TypeScript · Next.js · Node.js · Supabase · Google Cloud · Kintone
 
 ## Links
 
-- **Portfolio** → [portfolio-nu-seven-1xyfqw3iwx.vercel.app](https://portfolio-nu-seven-1xyfqw3iwx.vercel.app)
 - **LinkedIn** → [muhammadraffiwindarto](https://linkedin.com/in/muhammadraffiwindarto)
 - **Email** → raffiwindartobisnis@gmail.com
