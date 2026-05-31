@@ -1,8 +1,8 @@
 # Raffi Windarto
 
-Product-minded software engineer based in Osaka / Remote.
+Internal systems engineer based in Osaka, Japan.
 
-I build **internal tools, operator interfaces, AI-assisted workflows, and consumer apps** — software that stays calm and trustworthy when the work gets messy.
+I build **business web applications, internal tools, API integrations, workflow automation, and data-backed operational systems**.
 
 **→ [portfolio](https://raffi.is-a.dev/)**
 
@@ -10,10 +10,10 @@ I build **internal tools, operator interfaces, AI-assisted workflows, and consum
 
 ## What I focus on
 
-- **Internal tools & ops software** — admin surfaces, operator flows, back-office systems
-- **System integrations** — webhook-driven sync, record resolution, diagnostic endpoints
-- **AI-assisted workflows** — interfaces where automation is explainable and operators stay in control
-- **Consumer apps** — personal finance, language learning, cross-platform mobile (Expo + Supabase)
+- **Internal tools & admin workflows** — practical screens for business operations and support teams
+- **System integrations** — REST APIs, webhooks, OAuth/authentication, retries, write-back, and diagnostics
+- **Data foundations** — Supabase/PostgreSQL, BigQuery, and server-side data workflows
+- **AI-assisted development** — using LLM tools for implementation support, testing viewpoints, and documentation
 
 ---
 
@@ -31,11 +31,11 @@ I build **internal tools, operator interfaces, AI-assisted workflows, and consum
 
 ## Stack
 
-TypeScript · Next.js · Node.js · Expo · Supabase · Google Cloud · Kintone
+TypeScript · JavaScript · Next.js · React · Node.js · Supabase · PostgreSQL · BigQuery · Google Cloud · Kintone
 
 ---
 
 ## Links
 
-- **LinkedIn** → [muhammadraffiwindarto](https://linkedin.com/in/muhammadraffiwindarto)
+- **LinkedIn** → [Muhammad Raffi Windarto](https://www.linkedin.com/in/muhammad-raffi-windarto-520aa2330/)
 - **Email** → raffiwindartobisnis@gmail.com
