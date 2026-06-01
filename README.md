@@ -23,6 +23,9 @@ I build **business web applications, internal tools, API integrations, workflow 
 |------|-------------|
 | [raffi-portfolio-site](https://github.com/Wallens11/raffi-portfolio-site) | Public portfolio source with sanitized case studies and runnable demos built with Next.js |
 | [agent-ops-room](https://github.com/Wallens11/agent-ops-room) | Vanilla Node.js ops room for routing GitHub issues to AI runtimes with a real-time UI |
+| [record-sync-engine](https://github.com/Wallens11/record-sync-engine) | Generic record-source webhook sync template with Zendesk, HubSpot, and Slack adapters |
+| [secure-record-viewer](https://github.com/Wallens11/secure-record-viewer) | Token-gated viewer for selected record-source data with server-side credentials |
+| [line-workflow-starter](https://github.com/Wallens11/line-workflow-starter) | LINE Messaging API workflow starter backed by a generic record-source API |
 | [supabase-multi-tenant-starter](https://github.com/Wallens11/supabase-multi-tenant-starter) | Next.js + Supabase starter with multi-tenant RLS, role-based access, and auth middleware |
 
 ---
