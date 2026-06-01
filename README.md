@@ -26,6 +26,7 @@ I build **business web applications, internal tools, API integrations, workflow 
 | [record-sync-engine](https://github.com/Wallens11/record-sync-engine) | Generic record-source webhook sync template with Zendesk, HubSpot, and Slack adapters |
 | [secure-record-viewer](https://github.com/Wallens11/secure-record-viewer) | Token-gated viewer for selected record-source data with server-side credentials |
 | [line-workflow-starter](https://github.com/Wallens11/line-workflow-starter) | LINE Messaging API workflow starter backed by a generic record-source API |
+| [kintone-line-workflow-starter](https://github.com/Wallens11/kintone-line-workflow-starter) | Clean-room Kintone REST API and LINE Messaging API workflow starter with fake schema and webhook signature checks |
 | [supabase-multi-tenant-starter](https://github.com/Wallens11/supabase-multi-tenant-starter) | Next.js + Supabase starter with multi-tenant RLS, role-based access, and auth middleware |
 
 ---
