@@ -13,7 +13,7 @@ I build **business web applications, internal tools, API integrations, workflow 
 - **Internal tools & admin workflows** — practical screens for business operations and support teams
 - **System integrations** — REST APIs, webhooks, OAuth/authentication, retries, write-back, and diagnostics
 - **Data foundations** — Supabase/PostgreSQL, BigQuery, and server-side data workflows
-- **AI-assisted development** — using LLM tools for implementation support, testing viewpoints, and documentation
+- **Development workflow** — testing viewpoints, documentation, implementation support, and delivery quality
 
 ---
 
@@ -22,7 +22,7 @@ I build **business web applications, internal tools, API integrations, workflow 
 | Repo | What it does |
 |------|-------------|
 | [raffi-portfolio-site](https://github.com/Wallens11/raffi-portfolio-site) | Public portfolio source with sanitized case studies and runnable demos built with Next.js |
-| [agent-ops-room](https://github.com/Wallens11/agent-ops-room) | Vanilla Node.js ops room for routing GitHub issues to AI runtimes with a real-time UI |
+| [agent-ops-room](https://github.com/Wallens11/agent-ops-room) | Vanilla Node.js ops room for routing GitHub issues to worker runtimes with a real-time UI |
 | [record-sync-engine](https://github.com/Wallens11/record-sync-engine) | Generic record-source webhook sync template with Zendesk, HubSpot, and Slack adapters |
 | [secure-record-viewer](https://github.com/Wallens11/secure-record-viewer) | Token-gated viewer for selected record-source data with server-side credentials |
 | [line-workflow-starter](https://github.com/Wallens11/line-workflow-starter) | LINE Messaging API workflow starter backed by a generic record-source API |
